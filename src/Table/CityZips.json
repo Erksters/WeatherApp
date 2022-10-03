@@ -1,0 +1,3018 @@
+{
+  "Aberdeen": {
+    "State": "WA",
+    "Zipcode": 98595
+  },
+  "Adams - Mt. Greylock": {
+    "State": "MA",
+    "Zipcode": 1367
+  },
+  "Adirondacks Region": {
+    "State": "NY",
+    "Zipcode": 13690
+  },
+  "Aiken-Augusta - SC and GA": {
+    "State": "SC",
+    "Zipcode": 29817
+  },
+  "Ajo": {
+    "State": "AZ",
+    "Zipcode": 85321
+  },
+  "Alamo Lake State Park": {
+    "State": "AZ",
+    "Zipcode": 85357
+  },
+  "Alba": {
+    "State": "MO",
+    "Zipcode": 64857
+  },
+  "Albany": {
+    "State": "OR",
+    "Zipcode": 97322
+  },
+  "Albuquerque": {
+    "State": "NM",
+    "Zipcode": 87199
+  },
+  "Alexander County": {
+    "State": "NC",
+    "Zipcode": 28681
+  },
+  "Alexandria": {
+    "State": "LA",
+    "Zipcode": 71360
+  },
+  "Alleghany County": {
+    "State": "NC",
+    "Zipcode": 28623
+  },
+  "Altoona": {
+    "State": "PA",
+    "Zipcode": 16662
+  },
+  "Amarillo": {
+    "State": "TX",
+    "Zipcode": 79189
+  },
+  "Amherst": {
+    "State": "MA",
+    "Zipcode": 1035
+  },
+  "Anacortes": {
+    "State": "WA",
+    "Zipcode": 98221
+  },
+  "Anchorage": {
+    "State": "AK",
+    "Zipcode": 99518
+  },
+  "Ann Arbor": {
+    "State": "MI",
+    "Zipcode": 49288
+  },
+  "Anson County": {
+    "State": "NC",
+    "Zipcode": 28135
+  },
+  "Antelope Vly": {
+    "State": "CA",
+    "Zipcode": 93599
+  },
+  "Anza Vly": {
+    "State": "CA",
+    "Zipcode": 92561
+  },
+  "Apache Junction": {
+    "State": "AZ",
+    "Zipcode": 85120
+  },
+  "Applegate Valley": {
+    "State": "OR",
+    "Zipcode": 97544
+  },
+  "Arden Arcade-Del Paso Manor": {
+    "State": "CA",
+    "Zipcode": 95860
+  },
+  "Ashe County": {
+    "State": "NC",
+    "Zipcode": 28694
+  },
+  "Ashland": {
+    "State": "OR",
+    "Zipcode": 97520
+  },
+  "Aspen": {
+    "State": "CO",
+    "Zipcode": 81649
+  },
+  "Atascadero": {
+    "State": "CA",
+    "Zipcode": 93422
+  },
+  "Athol (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83822
+  },
+  "Atlanta": {
+    "State": "GA",
+    "Zipcode": 31816
+  },
+  "Auburn": {
+    "State": "CA",
+    "Zipcode": 95722
+  },
+  "Austin": {
+    "State": "TX",
+    "Zipcode": 76574
+  },
+  "Avery County": {
+    "State": "NC",
+    "Zipcode": 28616
+  },
+  "Baker City": {
+    "State": "OR",
+    "Zipcode": 97814
+  },
+  "Bakersfield": {
+    "State": "CA",
+    "Zipcode": 93518
+  },
+  "Banning": {
+    "State": "CA",
+    "Zipcode": 92320
+  },
+  "Barstow": {
+    "State": "CA",
+    "Zipcode": 92398
+  },
+  "Baton Rouge Area": {
+    "State": "LA",
+    "Zipcode": 70820
+  },
+  "Bay and Gulf Counties": {
+    "State": "FL",
+    "Zipcode": 32404
+  },
+  "Bear Valley": {
+    "State": "CA",
+    "Zipcode": 95223
+  },
+  "Beaufort County": {
+    "State": "NC",
+    "Zipcode": 27865
+  },
+  "Beaumont-Port Arthur": {
+    "State": "TX",
+    "Zipcode": 77713
+  },
+  "Beaverton": {
+    "State": "OR",
+    "Zipcode": 97008
+  },
+  "Belle Glade": {
+    "State": "FL",
+    "Zipcode": 33493
+  },
+  "Bellingham": {
+    "State": "WA",
+    "Zipcode": 98240
+  },
+  "Bend and Redmond": {
+    "State": "OR",
+    "Zipcode": 97702
+  },
+  "Bennington": {
+    "State": "VT",
+    "Zipcode": 5751
+  },
+  "Benton Harbor": {
+    "State": "MI",
+    "Zipcode": 49090
+  },
+  "Bertie County": {
+    "State": "NC",
+    "Zipcode": 27983
+  },
+  "Big Bear Lake": {
+    "State": "CA",
+    "Zipcode": 92305
+  },
+  "Big Bend": {
+    "State": "TX",
+    "Zipcode": 79852
+  },
+  "Big Horn County": {
+    "State": "WY",
+    "Zipcode": 82410
+  },
+  "Birmingham": {
+    "State": "AL",
+    "Zipcode": 35173
+  },
+  "Bishop Paiute Tribe": {
+    "State": "CA",
+    "Zipcode": 93514
+  },
+  "Bladen County": {
+    "State": "NC",
+    "Zipcode": 28337
+  },
+  "Bloomington and Normal": {
+    "State": "IL",
+    "Zipcode": 61799
+  },
+  "Boise": {
+    "State": "ID",
+    "Zipcode": 83634
+  },
+  "Bonne Terre": {
+    "State": "MO",
+    "Zipcode": 63087
+  },
+  "Boston": {
+    "State": "MA",
+    "Zipcode": 2446
+  },
+  "Boulder City": {
+    "State": "NV",
+    "Zipcode": 89006
+  },
+  "Brainerd": {
+    "State": "MN",
+    "Zipcode": 56431
+  },
+  "Brawley": {
+    "State": "CA",
+    "Zipcode": 92273
+  },
+  "Bremerton-Silverdale-Bainbridge Island": {
+    "State": "WA",
+    "Zipcode": 98370
+  },
+  "Bridgeport": {
+    "State": "CT",
+    "Zipcode": 6825
+  },
+  "Brigham City": {
+    "State": "UT",
+    "Zipcode": 84302
+  },
+  "Brockton": {
+    "State": "MA",
+    "Zipcode": 2302
+  },
+  "Brookings": {
+    "State": "OR",
+    "Zipcode": 97415
+  },
+  "Broward County": {
+    "State": "FL",
+    "Zipcode": 33076
+  },
+  "Brownsville-McAllen": {
+    "State": "TX",
+    "Zipcode": 78598
+  },
+  "Brunswick County": {
+    "State": "NC",
+    "Zipcode": 28470
+  },
+  "Bryan-College Station": {
+    "State": "TX",
+    "Zipcode": 77845
+  },
+  "Bullhead City": {
+    "State": "AZ",
+    "Zipcode": 89028
+  },
+  "Buncombe County": {
+    "State": "NC",
+    "Zipcode": 28816
+  },
+  "Burke County": {
+    "State": "NC",
+    "Zipcode": 28619
+  },
+  "Burlington": {
+    "State": "VT",
+    "Zipcode": 5907
+  },
+  "Burns": {
+    "State": "OR",
+    "Zipcode": 97738
+  },
+  "C San Bernardino": {
+    "State": "CA",
+    "Zipcode": 92377
+  },
+  "C San Bernardino M": {
+    "State": "CA",
+    "Zipcode": 92322
+  },
+  "C San Bernardino-2": {
+    "State": "CA",
+    "Zipcode": 92406
+  },
+  "Cabarrus County": {
+    "State": "NC",
+    "Zipcode": 28215
+  },
+  "Caldwell County": {
+    "State": "NC",
+    "Zipcode": 28661
+  },
+  "Calexico": {
+    "State": "CA",
+    "Zipcode": 92232
+  },
+  "Camden County": {
+    "State": "NC",
+    "Zipcode": 27976
+  },
+  "Canton and Massillon": {
+    "State": "OH",
+    "Zipcode": 44626
+  },
+  "Cape Cod and Islands": {
+    "State": "MA",
+    "Zipcode": 2650
+  },
+  "Capistrano Vly": {
+    "State": "CA",
+    "Zipcode": 92693
+  },
+  "Carmel Valley": {
+    "State": "CA",
+    "Zipcode": 93924
+  },
+  "Carpinteria": {
+    "State": "CA",
+    "Zipcode": 93013
+  },
+  "Carrizo Plains": {
+    "State": "CA",
+    "Zipcode": 93453
+  },
+  "Carson City": {
+    "State": "NV",
+    "Zipcode": 89703
+  },
+  "Carteret County": {
+    "State": "NC",
+    "Zipcode": 28516
+  },
+  "Casa Grande": {
+    "State": "AZ",
+    "Zipcode": 85122
+  },
+  "Cascade foothills of east King-Pierce counties": {
+    "State": "WA",
+    "Zipcode": 98075
+  },
+  "Casper": {
+    "State": "WY",
+    "Zipcode": 82630
+  },
+  "Catawba County": {
+    "State": "NC",
+    "Zipcode": 28658
+  },
+  "Cave Junction": {
+    "State": "OR",
+    "Zipcode": 97531
+  },
+  "Central": {
+    "State": "NJ",
+    "Zipcode": 8884
+  },
+  "Central Coastal": {
+    "State": "CA",
+    "Zipcode": 92607
+  },
+  "Central LA CO": {
+    "State": "CA",
+    "Zipcode": 91199
+  },
+  "Central New York Region": {
+    "State": "NY",
+    "Zipcode": 12116
+  },
+  "Central Orange": {
+    "State": "CA",
+    "Zipcode": 92899
+  },
+  "Central Orange-2": {
+    "State": "CA",
+    "Zipcode": 90721
+  },
+  "Champaign": {
+    "State": "IL",
+    "Zipcode": 61877
+  },
+  "Charleston": {
+    "State": "WV",
+    "Zipcode": 25396
+  },
+  "Chatham County": {
+    "State": "NC",
+    "Zipcode": 27252
+  },
+  "Chattanooga": {
+    "State": "TN",
+    "Zipcode": 37450
+  },
+  "Cheeka Peak": {
+    "State": "WA",
+    "Zipcode": 98357
+  },
+  "Chehalis": {
+    "State": "WA",
+    "Zipcode": 98532
+  },
+  "Chelan": {
+    "State": "WA",
+    "Zipcode": 98817
+  },
+  "Chelsea": {
+    "State": "MA",
+    "Zipcode": 2150
+  },
+  "Cherokee County": {
+    "State": "NC",
+    "Zipcode": 28906
+  },
+  "Cheyenne": {
+    "State": "WY",
+    "Zipcode": 82010
+  },
+  "Chicago": {
+    "State": "IL",
+    "Zipcode": 60110
+  },
+  "Chico": {
+    "State": "CA",
+    "Zipcode": 95973
+  },
+  "Chiloquin": {
+    "State": "OR",
+    "Zipcode": 97624
+  },
+  "Cincinnati": {
+    "State": "OH",
+    "Zipcode": 45002
+  },
+  "City of Maricopa": {
+    "State": "AZ",
+    "Zipcode": 85139
+  },
+  "Clackamas": {
+    "State": "OR",
+    "Zipcode": 97015
+  },
+  "Claremont": {
+    "State": "NH",
+    "Zipcode": 3782
+  },
+  "Clarkston": {
+    "State": "WA",
+    "Zipcode": 99403
+  },
+  "Clarksville-Montgomery County": {
+    "State": "TN",
+    "Zipcode": 37191
+  },
+  "Clay County": {
+    "State": "NC",
+    "Zipcode": 28904
+  },
+  "Cleveland County": {
+    "State": "NC",
+    "Zipcode": 28152
+  },
+  "Cleveland-Akron-Lorain": {
+    "State": "OH",
+    "Zipcode": 44411
+  },
+  "Coachella Vly": {
+    "State": "CA",
+    "Zipcode": 92264
+  },
+  "Cody": {
+    "State": "WY",
+    "Zipcode": 82414
+  },
+  "Coeur d'Alene": {
+    "State": "ID",
+    "Zipcode": 83858
+  },
+  "Coeur d'Alene Reservation": {
+    "State": "ID",
+    "Zipcode": 83851
+  },
+  "Colfax": {
+    "State": "CA",
+    "Zipcode": 95713
+  },
+  "Colorado River Valley": {
+    "State": "CO",
+    "Zipcode": 81643
+  },
+  "Colorado Springs": {
+    "State": "CO",
+    "Zipcode": 80133
+  },
+  "Columbia": {
+    "State": "SC",
+    "Zipcode": 29229
+  },
+  "Columbus": {
+    "State": "OH",
+    "Zipcode": 43040
+  },
+  "Columbus County": {
+    "State": "NC",
+    "Zipcode": 28424
+  },
+  "Columbus-Phenix City - GA and AL": {
+    "State": "AL",
+    "Zipcode": 36870
+  },
+  "Colville": {
+    "State": "WA",
+    "Zipcode": 99114
+  },
+  "Concord": {
+    "State": "NH",
+    "Zipcode": 3224
+  },
+  "Confederated Tribe of Chehalis Reservation": {
+    "State": "WA",
+    "Zipcode": 98568
+  },
+  "Confederated Tribes and Bands of Yakama Nations": {
+    "State": "WA",
+    "Zipcode": 98952
+  },
+  "Confederated Tribes of Warm Springs Reservation": {
+    "State": "OR",
+    "Zipcode": 97761
+  },
+  "Conway": {
+    "State": "NH",
+    "Zipcode": 3894
+  },
+  "Cool": {
+    "State": "CA",
+    "Zipcode": 95614
+  },
+  "Coos": {
+    "State": "Lower Umpqua",
+    "Zipcode": "and Siuslaw Indians of Oregon"
+  },
+  "Corpus Christi": {
+    "State": "TX",
+    "Zipcode": 78419
+  },
+  "Corvallis": {
+    "State": "OR",
+    "Zipcode": 97333
+  },
+  "Cottage Grove": {
+    "State": "OR",
+    "Zipcode": 97426
+  },
+  "Cottonwood (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83522
+  },
+  "Coyote": {
+    "State": "NM",
+    "Zipcode": 87012
+  },
+  "Craven County": {
+    "State": "NC",
+    "Zipcode": 28527
+  },
+  "Cumberland County": {
+    "State": "NC",
+    "Zipcode": 28314
+  },
+  "Currituck County": {
+    "State": "NC",
+    "Zipcode": 27923
+  },
+  "Cut Bank (seasonal)": {
+    "State": "MT",
+    "Zipcode": 59427
+  },
+  "Dallas": {
+    "State": "OR",
+    "Zipcode": 97371
+  },
+  "Dallas-Fort Worth": {
+    "State": "TX",
+    "Zipcode": 75496
+  },
+  "Danbury": {
+    "State": "CT",
+    "Zipcode": 6795
+  },
+  "Dane": {
+    "State": "Columbia",
+    "Zipcode": "and Sauk Counties"
+  },
+  "Dare County": {
+    "State": "NC",
+    "Zipcode": 27978
+  },
+  "Darrington": {
+    "State": "WA",
+    "Zipcode": 98241
+  },
+  "Davenport": {
+    "State": "CA",
+    "Zipcode": 95017
+  },
+  "Davis": {
+    "State": "CA",
+    "Zipcode": 95691
+  },
+  "Dayton": {
+    "State": "OH",
+    "Zipcode": 45883
+  },
+  "Daytona Beach": {
+    "State": "FL",
+    "Zipcode": 32744
+  },
+  "Death Valley National Park": {
+    "State": "CA",
+    "Zipcode": 92328
+  },
+  "Decatur": {
+    "State": "IL",
+    "Zipcode": 62537
+  },
+  "Delaware": {
+    "State": "DE",
+    "Zipcode": 19713
+  },
+  "Delaware Water Gap": {
+    "State": "NJ",
+    "Zipcode": 7890
+  },
+  "Denver-Boulder": {
+    "State": "CO",
+    "Zipcode": 80603
+  },
+  "Des Moines": {
+    "State": "IA",
+    "Zipcode": 50327
+  },
+  "Detroit": {
+    "State": "MI",
+    "Zipcode": 48350
+  },
+  "Detroit Lakes": {
+    "State": "MN",
+    "Zipcode": 56554
+  },
+  "Dillon (seasonal)": {
+    "State": "MT",
+    "Zipcode": 59725
+  },
+  "Dinosaur National Monument": {
+    "State": "UT",
+    "Zipcode": 84079
+  },
+  "Dodge and Fond du Lac Counties": {
+    "State": "WI",
+    "Zipcode": 53079
+  },
+  "Dona Ana County": {
+    "State": "NM",
+    "Zipcode": 88048
+  },
+  "Douglas": {
+    "State": "WY",
+    "Zipcode": 82229
+  },
+  "Downeast Coast": {
+    "State": "ME",
+    "Zipcode": 4680
+  },
+  "Duluth": {
+    "State": "MN",
+    "Zipcode": 55816
+  },
+  "Duplin County": {
+    "State": "NC",
+    "Zipcode": 28453
+  },
+  "Durham County": {
+    "State": "NC",
+    "Zipcode": 27522
+  },
+  "E San Bernardino": {
+    "State": "CA",
+    "Zipcode": 92350
+  },
+  "E San Fernando Vly": {
+    "State": "CA",
+    "Zipcode": 91395
+  },
+  "E San Gabriel V-2": {
+    "State": "CA",
+    "Zipcode": 91741
+  },
+  "E San Gabriel Vly": {
+    "State": "CA",
+    "Zipcode": 91025
+  },
+  "East Riverside CO": {
+    "State": "CA",
+    "Zipcode": 92239
+  },
+  "Eastern Interior": {
+    "State": "ME",
+    "Zipcode": 4496
+  },
+  "Eastern Lake Ontario Region": {
+    "State": "NY",
+    "Zipcode": 14642
+  },
+  "Eastern U.P.": {
+    "State": "MI",
+    "Zipcode": 49726
+  },
+  "Eau Claire County": {
+    "State": "WI",
+    "Zipcode": 54770
+  },
+  "Edgecombe County": {
+    "State": "NC",
+    "Zipcode": 27809
+  },
+  "El Centro": {
+    "State": "CA",
+    "Zipcode": 92244
+  },
+  "El Dorado Springs": {
+    "State": "MO",
+    "Zipcode": 65785
+  },
+  "El Paso": {
+    "State": "TX",
+    "Zipcode": 79849
+  },
+  "Elk Grove": {
+    "State": "CA",
+    "Zipcode": 95624
+  },
+  "Elko": {
+    "State": "NV",
+    "Zipcode": 89828
+  },
+  "Ellensburg": {
+    "State": "WA",
+    "Zipcode": 98926
+  },
+  "Eloy": {
+    "State": "AZ",
+    "Zipcode": 85231
+  },
+  "Ely": {
+    "State": "MN",
+    "Zipcode": 55607
+  },
+  "Erie": {
+    "State": "PA",
+    "Zipcode": 16565
+  },
+  "Estacada": {
+    "State": "OR",
+    "Zipcode": 97023
+  },
+  "Eugene and Springfield": {
+    "State": "OR",
+    "Zipcode": 97440
+  },
+  "Eureka": {
+    "State": "CA",
+    "Zipcode": 95524
+  },
+  "Evanston": {
+    "State": "WY",
+    "Zipcode": 82939
+  },
+  "Evansville": {
+    "State": "IN",
+    "Zipcode": 47725
+  },
+  "Everett-Marysville-Lynnwood": {
+    "State": "WA",
+    "Zipcode": 98275
+  },
+  "Fairbanks-West": {
+    "State": "AK",
+    "Zipcode": 99709
+  },
+  "Fairfield": {
+    "State": "CA",
+    "Zipcode": 94592
+  },
+  "Fairhaven": {
+    "State": "MA",
+    "Zipcode": 2346
+  },
+  "Fall River": {
+    "State": "MA",
+    "Zipcode": 2885
+  },
+  "Fallon": {
+    "State": "NV",
+    "Zipcode": 89407
+  },
+  "Farrar": {
+    "State": "MO",
+    "Zipcode": 62280
+  },
+  "Fernley": {
+    "State": "NV",
+    "Zipcode": 89442
+  },
+  "Flagstaff": {
+    "State": "AZ",
+    "Zipcode": 86011
+  },
+  "Flint": {
+    "State": "MI",
+    "Zipcode": 48857
+  },
+  "Florence and Darlington": {
+    "State": "SC",
+    "Zipcode": 29741
+  },
+  "Folsom": {
+    "State": "CA",
+    "Zipcode": 95630
+  },
+  "Fond du Lac": {
+    "State": "MN",
+    "Zipcode": 55720
+  },
+  "Forest Ranch": {
+    "State": "CA",
+    "Zipcode": 95942
+  },
+  "Forsyth County-Winston-Salem-Greensboro-High Point": {
+    "State": "NC",
+    "Zipcode": 24177
+  },
+  "Fort Bragg": {
+    "State": "CA",
+    "Zipcode": 95437
+  },
+  "Fort Collins": {
+    "State": "CO",
+    "Zipcode": 80538
+  },
+  "Fort Myers": {
+    "State": "FL",
+    "Zipcode": 33993
+  },
+  "Fort Pierce": {
+    "State": "FL",
+    "Zipcode": 33469
+  },
+  "Fort Wayne": {
+    "State": "IN",
+    "Zipcode": 46845
+  },
+  "Four Corners Area": {
+    "State": "CO",
+    "Zipcode": 81335
+  },
+  "Franklin County": {
+    "State": "NC",
+    "Zipcode": 27816
+  },
+  "Fremont": {
+    "State": "CA",
+    "Zipcode": 94555
+  },
+  "Fresno": {
+    "State": "CA",
+    "Zipcode": 93741
+  },
+  "Gainesville": {
+    "State": "FL",
+    "Zipcode": 32667
+  },
+  "Garden Valley": {
+    "State": "ID",
+    "Zipcode": 83602
+  },
+  "Gardnerville": {
+    "State": "NV",
+    "Zipcode": 89460
+  },
+  "Gaston County": {
+    "State": "NC",
+    "Zipcode": 28032
+  },
+  "Gates County": {
+    "State": "NC",
+    "Zipcode": 27938
+  },
+  "Gila River Indian Community": {
+    "State": "AZ",
+    "Zipcode": 85147
+  },
+  "Gillette": {
+    "State": "WY",
+    "Zipcode": 82731
+  },
+  "Glacier National Park": {
+    "State": "MT",
+    "Zipcode": 59921
+  },
+  "Goleta": {
+    "State": "CA",
+    "Zipcode": 93117
+  },
+  "Graham County": {
+    "State": "NC",
+    "Zipcode": 28771
+  },
+  "Grand Junction": {
+    "State": "CO",
+    "Zipcode": 81527
+  },
+  "Grand Portage": {
+    "State": "MN",
+    "Zipcode": 55606
+  },
+  "Grand Rapids": {
+    "State": "MI",
+    "Zipcode": 49548
+  },
+  "Grangeville": {
+    "State": "ID",
+    "Zipcode": 83530
+  },
+  "Grants Pass": {
+    "State": "OR",
+    "Zipcode": 97527
+  },
+  "Granville County": {
+    "State": "NC",
+    "Zipcode": 27572
+  },
+  "Great Smoky Mtns. Natl. Park - TN": {
+    "State": "TN",
+    "Zipcode": 37876
+  },
+  "Greeley": {
+    "State": "CO",
+    "Zipcode": 80651
+  },
+  "Greeley Hill": {
+    "State": "CA",
+    "Zipcode": 95311
+  },
+  "Green River": {
+    "State": "WY",
+    "Zipcode": 82935
+  },
+  "Greenbrier County": {
+    "State": "WV",
+    "Zipcode": 26680
+  },
+  "Greene County": {
+    "State": "NC",
+    "Zipcode": 28554
+  },
+  "Greenfield": {
+    "State": "MA",
+    "Zipcode": 1301
+  },
+  "Greenville-Spartanburg": {
+    "State": "SC",
+    "Zipcode": 29819
+  },
+  "Greenwich": {
+    "State": "CT",
+    "Zipcode": 6907
+  },
+  "GRIC Mobile": {
+    "State": "AZ",
+    "Zipcode": 85286
+  },
+  "Gridley": {
+    "State": "CA",
+    "Zipcode": 95917
+  },
+  "Hagerstown Region": {
+    "State": "MD",
+    "Zipcode": 21750
+  },
+  "Halifax County": {
+    "State": "NC",
+    "Zipcode": 27887
+  },
+  "Hammond-Gary": {
+    "State": "IN",
+    "Zipcode": 46410
+  },
+  "Hampton Roads": {
+    "State": "VA",
+    "Zipcode": 23072
+  },
+  "Hanford": {
+    "State": "CA",
+    "Zipcode": 93230
+  },
+  "Harnett County": {
+    "State": "NC",
+    "Zipcode": 28323
+  },
+  "Hartford": {
+    "State": "CT",
+    "Zipcode": 6053
+  },
+  "Haverhill": {
+    "State": "MA",
+    "Zipcode": 1949
+  },
+  "Havre (seasonal)": {
+    "State": "MT",
+    "Zipcode": 59501
+  },
+  "Hayden": {
+    "State": "AZ",
+    "Zipcode": 85292
+  },
+  "Haywood County": {
+    "State": "NC",
+    "Zipcode": 28721
+  },
+  "Healdsburg": {
+    "State": "CA",
+    "Zipcode": 95448
+  },
+  "Helena": {
+    "State": "MT",
+    "Zipcode": 59623
+  },
+  "Hemet and San Jacinto": {
+    "State": "CA",
+    "Zipcode": 92583
+  },
+  "Henderson County": {
+    "State": "NC",
+    "Zipcode": 28793
+  },
+  "Hermiston": {
+    "State": "OR",
+    "Zipcode": 97838
+  },
+  "Hernando": {
+    "State": "MS",
+    "Zipcode": 38680
+  },
+  "Hertford County": {
+    "State": "NC",
+    "Zipcode": 27986
+  },
+  "Hesperia": {
+    "State": "CA",
+    "Zipcode": 92340
+  },
+  "Hiawatha Field": {
+    "State": "WY",
+    "Zipcode": 82901
+  },
+  "Hidden Valley": {
+    "State": "AZ",
+    "Zipcode": 85138
+  },
+  "High Elevations of Acadia National Park": {
+    "State": "ME",
+    "Zipcode": 4675
+  },
+  "Hillsboro": {
+    "State": "OR",
+    "Zipcode": 97124
+  },
+  "Hilo": {
+    "State": "HI",
+    "Zipcode": 96776
+  },
+  "Hoke County": {
+    "State": "NC",
+    "Zipcode": 28376
+  },
+  "Holiday": {
+    "State": "FL",
+    "Zipcode": 34436
+  },
+  "Hollister": {
+    "State": "CA",
+    "Zipcode": 95045
+  },
+  "Hollywood": {
+    "State": "FL",
+    "Zipcode": 33029
+  },
+  "Honolulu": {
+    "State": "HI",
+    "Zipcode": 96858
+  },
+  "Hood River": {
+    "State": "OR",
+    "Zipcode": 98651
+  },
+  "Houghton Lake": {
+    "State": "MI",
+    "Zipcode": 48636
+  },
+  "Houston-Galveston-Brazoria": {
+    "State": "TX",
+    "Zipcode": 77598
+  },
+  "Huntington": {
+    "State": "WV",
+    "Zipcode": 25779
+  },
+  "Huntsville": {
+    "State": "AL",
+    "Zipcode": 35175
+  },
+  "Hyde County": {
+    "State": "NC",
+    "Zipcode": 27885
+  },
+  "Idaho City": {
+    "State": "ID",
+    "Zipcode": 83666
+  },
+  "Idaho Falls": {
+    "State": "ID",
+    "Zipcode": 83443
+  },
+  "Imperial Valley": {
+    "State": "CA",
+    "Zipcode": 92227
+  },
+  "Inchelium": {
+    "State": "WA",
+    "Zipcode": 99138
+  },
+  "Indian Springs": {
+    "State": "NV",
+    "Zipcode": 89070
+  },
+  "Indiana County": {
+    "State": "PA",
+    "Zipcode": 15957
+  },
+  "Indianapolis": {
+    "State": "IN",
+    "Zipcode": 46290
+  },
+  "Iredell County": {
+    "State": "NC",
+    "Zipcode": 27013
+  },
+  "Jackson": {
+    "State": "WY",
+    "Zipcode": 83014
+  },
+  "Jackson County": {
+    "State": "NC",
+    "Zipcode": 28725
+  },
+  "Jacksonville": {
+    "State": "FL",
+    "Zipcode": 32277
+  },
+  "Jean": {
+    "State": "NV",
+    "Zipcode": 89026
+  },
+  "Jefferson City": {
+    "State": "MO",
+    "Zipcode": 65111
+  },
+  "John Day": {
+    "State": "OR",
+    "Zipcode": 97820
+  },
+  "Johnston County": {
+    "State": "NC",
+    "Zipcode": 27568
+  },
+  "Johnstown": {
+    "State": "PA",
+    "Zipcode": 16630
+  },
+  "Jones County": {
+    "State": "NC",
+    "Zipcode": 28573
+  },
+  "Juliaetta (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83537
+  },
+  "Juneau": {
+    "State": "AK",
+    "Zipcode": 99850
+  },
+  "Kalamazoo": {
+    "State": "MI",
+    "Zipcode": 49245
+  },
+  "Kansas City": {
+    "State": "MO",
+    "Zipcode": 66085
+  },
+  "Kapolei": {
+    "State": "HI",
+    "Zipcode": 96707
+  },
+  "Keene": {
+    "State": "NH",
+    "Zipcode": 3470
+  },
+  "Kemmerer": {
+    "State": "WY",
+    "Zipcode": 83121
+  },
+  "Kennewick": {
+    "State": "WA",
+    "Zipcode": 99301
+  },
+  "Kenosha and Racine Counties": {
+    "State": "WI",
+    "Zipcode": 53128
+  },
+  "Ketchum": {
+    "State": "ID",
+    "Zipcode": 83340
+  },
+  "Kihei": {
+    "State": "HI",
+    "Zipcode": 96793
+  },
+  "King City": {
+    "State": "CA",
+    "Zipcode": 93954
+  },
+  "Klamath Falls": {
+    "State": "OR",
+    "Zipcode": 97603
+  },
+  "Knoxville": {
+    "State": "TN",
+    "Zipcode": 37710
+  },
+  "Kona": {
+    "State": "HI",
+    "Zipcode": 96725
+  },
+  "Kootenai Tribe": {
+    "State": "ID",
+    "Zipcode": 83805
+  },
+  "La Crosse County": {
+    "State": "WI",
+    "Zipcode": 54669
+  },
+  "La Grande": {
+    "State": "OR",
+    "Zipcode": 97850
+  },
+  "La Grange": {
+    "State": "CA",
+    "Zipcode": 95369
+  },
+  "La Pine": {
+    "State": "OR",
+    "Zipcode": 97739
+  },
+  "Laconia": {
+    "State": "NH",
+    "Zipcode": 3810
+  },
+  "Lacrosse": {
+    "State": "WA",
+    "Zipcode": 99143
+  },
+  "Lafayette": {
+    "State": "LA",
+    "Zipcode": 70508
+  },
+  "Lake Charles": {
+    "State": "LA",
+    "Zipcode": 70669
+  },
+  "Lake County": {
+    "State": "FL",
+    "Zipcode": 32163
+  },
+  "Lake Elsinore": {
+    "State": "CA",
+    "Zipcode": 92675
+  },
+  "Lakeland": {
+    "State": "FL",
+    "Zipcode": 33898
+  },
+  "Lakeview": {
+    "State": "OR",
+    "Zipcode": 97630
+  },
+  "Lander": {
+    "State": "WY",
+    "Zipcode": 82520
+  },
+  "Lansing": {
+    "State": "MI",
+    "Zipcode": 48835
+  },
+  "Laramie": {
+    "State": "WY",
+    "Zipcode": 82073
+  },
+  "Laredo": {
+    "State": "TX",
+    "Zipcode": 78369
+  },
+  "Las Cruces": {
+    "State": "NM",
+    "Zipcode": 88013
+  },
+  "Las Vegas": {
+    "State": "NV",
+    "Zipcode": 89191
+  },
+  "Lassen Volcanic National Park": {
+    "State": "CA",
+    "Zipcode": 96063
+  },
+  "Lawton": {
+    "State": "OK",
+    "Zipcode": 73507
+  },
+  "Leavenworth": {
+    "State": "WA",
+    "Zipcode": 98826
+  },
+  "Lebanon": {
+    "State": "NH",
+    "Zipcode": 3586
+  },
+  "Lee County": {
+    "State": "NC",
+    "Zipcode": 27256
+  },
+  "Leech Lake Nation: Cass Lake": {
+    "State": "MN",
+    "Zipcode": 56433
+  },
+  "Lehigh Valley": {
+    "State": "PA",
+    "Zipcode": 19522
+  },
+  "Lenoir County": {
+    "State": "NC",
+    "Zipcode": 28504
+  },
+  "Lewiston": {
+    "State": "ID",
+    "Zipcode": 83501
+  },
+  "Lexington": {
+    "State": "KY",
+    "Zipcode": 40517
+  },
+  "Liberty-Clairton Area": {
+    "State": "PA",
+    "Zipcode": 15133
+  },
+  "Lima": {
+    "State": "OH",
+    "Zipcode": 45833
+  },
+  "Lincoln": {
+    "State": "NE",
+    "Zipcode": 68588
+  },
+  "Lincoln County": {
+    "State": "NC",
+    "Zipcode": 28093
+  },
+  "Little Rock-North Little Rock": {
+    "State": "AR",
+    "Zipcode": 72227
+  },
+  "Livermore": {
+    "State": "CA",
+    "Zipcode": 94588
+  },
+  "Logan": {
+    "State": "UT",
+    "Zipcode": 84321
+  },
+  "Lompoc": {
+    "State": "CA",
+    "Zipcode": 93427
+  },
+  "Londonderry": {
+    "State": "NH",
+    "Zipcode": 3873
+  },
+  "Lone Pine Paiute-Shoshone Reservation": {
+    "State": "CA",
+    "Zipcode": 93545
+  },
+  "Long Island": {
+    "State": "NY",
+    "Zipcode": 11980
+  },
+  "Longview": {
+    "State": "WA",
+    "Zipcode": 98632
+  },
+  "Louisville": {
+    "State": "KY",
+    "Zipcode": 40372
+  },
+  "Lower Eastern Shore": {
+    "State": "MD",
+    "Zipcode": 21601
+  },
+  "Lower Hudson Valley Region": {
+    "State": "NY",
+    "Zipcode": 10579
+  },
+  "Lubbock": {
+    "State": "TX",
+    "Zipcode": 79424
+  },
+  "Ludington": {
+    "State": "MI",
+    "Zipcode": 49656
+  },
+  "Lynn": {
+    "State": "MA",
+    "Zipcode": 2180
+  },
+  "Macon": {
+    "State": "GA",
+    "Zipcode": 31078
+  },
+  "Macon County": {
+    "State": "NC",
+    "Zipcode": 28763
+  },
+  "Madera": {
+    "State": "CA",
+    "Zipcode": 93638
+  },
+  "Madison": {
+    "State": "CT",
+    "Zipcode": 6498
+  },
+  "Madison County": {
+    "State": "NC",
+    "Zipcode": 28709
+  },
+  "Madras": {
+    "State": "OR",
+    "Zipcode": 97734
+  },
+  "Makah Indian Tribe of Makah Indian Reservation": {
+    "State": "WA",
+    "Zipcode": 98381
+  },
+  "Mammoth Cave National Park": {
+    "State": "KY",
+    "Zipcode": 42259
+  },
+  "Mammoth Lakes": {
+    "State": "CA",
+    "Zipcode": 93546
+  },
+  "Manchester": {
+    "State": "NH",
+    "Zipcode": 3449
+  },
+  "Maple Falls": {
+    "State": "WA",
+    "Zipcode": 98266
+  },
+  "Marina and Seaside": {
+    "State": "CA",
+    "Zipcode": 93933
+  },
+  "Mark Twain State Park": {
+    "State": "MO",
+    "Zipcode": 63462
+  },
+  "Markleeville": {
+    "State": "CA",
+    "Zipcode": 96120
+  },
+  "Marshall": {
+    "State": "MN",
+    "Zipcode": 56291
+  },
+  "Martin County": {
+    "State": "NC",
+    "Zipcode": 27840
+  },
+  "Martinsburg": {
+    "State": "WV",
+    "Zipcode": 25446
+  },
+  "Maryland Piedmont": {
+    "State": "MD",
+    "Zipcode": 20882
+  },
+  "McAlester": {
+    "State": "OK",
+    "Zipcode": 74554
+  },
+  "McCall": {
+    "State": "ID",
+    "Zipcode": 83635
+  },
+  "McDowell County": {
+    "State": "NC",
+    "Zipcode": 28752
+  },
+  "Mecklenburg County": {
+    "State": "NC",
+    "Zipcode": 28260
+  },
+  "Medford": {
+    "State": "OR",
+    "Zipcode": 97504
+  },
+  "Medicine Bow National Forest": {
+    "State": "WY",
+    "Zipcode": 82063
+  },
+  "Melbourne": {
+    "State": "FL",
+    "Zipcode": 34773
+  },
+  "Memphis": {
+    "State": "TN",
+    "Zipcode": 72386
+  },
+  "Merced": {
+    "State": "CA",
+    "Zipcode": 95348
+  },
+  "Mercer County": {
+    "State": "PA",
+    "Zipcode": 16114
+  },
+  "Mesa": {
+    "State": "WA",
+    "Zipcode": 99343
+  },
+  "Mesquite": {
+    "State": "NV",
+    "Zipcode": 89024
+  },
+  "Metro Baltimore": {
+    "State": "MD",
+    "Zipcode": 21409
+  },
+  "Metro Riverside CO": {
+    "State": "CA",
+    "Zipcode": 92517
+  },
+  "Metropolitan Washington": {
+    "State": "DC",
+    "Zipcode": 20064
+  },
+  "Mexicali": {
+    "State": "MX",
+    "Zipcode": 92231
+  },
+  "Miami": {
+    "State": "FL",
+    "Zipcode": 34099
+  },
+  "Mid-Coast": {
+    "State": "ME",
+    "Zipcode": 4605
+  },
+  "Middletown": {
+    "State": "CT",
+    "Zipcode": 6073
+  },
+  "Midland-Odessa": {
+    "State": "TX",
+    "Zipcode": 79766
+  },
+  "Mille Lacs": {
+    "State": "MN",
+    "Zipcode": 56338
+  },
+  "Milton - Blue Hill Observatory": {
+    "State": "MA",
+    "Zipcode": 2093
+  },
+  "Milwaukee and South Ozaukee Counties": {
+    "State": "WI",
+    "Zipcode": 53235
+  },
+  "Minneapolis-St. Paul": {
+    "State": "MN",
+    "Zipcode": 56071
+  },
+  "Mississippi Gulf Coast": {
+    "State": "MS",
+    "Zipcode": 39581
+  },
+  "Mitchell County": {
+    "State": "NC",
+    "Zipcode": 28664
+  },
+  "Mobile": {
+    "State": "AL",
+    "Zipcode": 36695
+  },
+  "Modesto": {
+    "State": "CA",
+    "Zipcode": 95358
+  },
+  "Monmouth County": {
+    "State": "NJ",
+    "Zipcode": 8501
+  },
+  "Mono Lake": {
+    "State": "CA",
+    "Zipcode": 93541
+  },
+  "Monroe": {
+    "State": "LA",
+    "Zipcode": 71292
+  },
+  "Monterey Peninsula": {
+    "State": "CA",
+    "Zipcode": 93953
+  },
+  "Montgomery County": {
+    "State": "NC",
+    "Zipcode": 27229
+  },
+  "Moore County": {
+    "State": "NC",
+    "Zipcode": 28327
+  },
+  "Moorhead": {
+    "State": "MN",
+    "Zipcode": 56561
+  },
+  "Morgantown": {
+    "State": "WV",
+    "Zipcode": 26588
+  },
+  "Morro Bay": {
+    "State": "CA",
+    "Zipcode": 93402
+  },
+  "Moscow": {
+    "State": "ID",
+    "Zipcode": 83844
+  },
+  "Moses Lake": {
+    "State": "WA",
+    "Zipcode": 98837
+  },
+  "Moundsville": {
+    "State": "WV",
+    "Zipcode": 26055
+  },
+  "Mount Vernon": {
+    "State": "WA",
+    "Zipcode": 98274
+  },
+  "Mountain View": {
+    "State": "HI",
+    "Zipcode": 96785
+  },
+  "Myrtle Beach-Conway": {
+    "State": "SC",
+    "Zipcode": 29527
+  },
+  "N Coastal Orange": {
+    "State": "CA",
+    "Zipcode": 90743
+  },
+  "Napa": {
+    "State": "CA",
+    "Zipcode": 94599
+  },
+  "Naples": {
+    "State": "FL",
+    "Zipcode": 34145
+  },
+  "Narragansett": {
+    "State": "RI",
+    "Zipcode": 2898
+  },
+  "Nash County": {
+    "State": "NC",
+    "Zipcode": 27896
+  },
+  "Nashua": {
+    "State": "NH",
+    "Zipcode": 3054
+  },
+  "Nashville": {
+    "State": "TN",
+    "Zipcode": 38567
+  },
+  "Natomas": {
+    "State": "CA",
+    "Zipcode": 95834
+  },
+  "Nespelem": {
+    "State": "WA",
+    "Zipcode": 99155
+  },
+  "New Hanover County": {
+    "State": "NC",
+    "Zipcode": 28410
+  },
+  "New Haven": {
+    "State": "CT",
+    "Zipcode": 6519
+  },
+  "New London-Groton": {
+    "State": "CT",
+    "Zipcode": 6385
+  },
+  "New Orleans": {
+    "State": "LA",
+    "Zipcode": 70792
+  },
+  "New York City Region": {
+    "State": "NY",
+    "Zipcode": 11697
+  },
+  "Newburyport": {
+    "State": "MA",
+    "Zipcode": 1952
+  },
+  "Newcastle": {
+    "State": "WY",
+    "Zipcode": 82730
+  },
+  "Niland": {
+    "State": "CA",
+    "Zipcode": 92257
+  },
+  "Nipomo": {
+    "State": "CA",
+    "Zipcode": 93445
+  },
+  "Nogales": {
+    "State": "AZ",
+    "Zipcode": 85648
+  },
+  "Norco and Corona": {
+    "State": "CA",
+    "Zipcode": 92883
+  },
+  "North Adams": {
+    "State": "MA",
+    "Zipcode": 12133
+  },
+  "North Central": {
+    "State": "NJ",
+    "Zipcode": 7069
+  },
+  "North Highlands": {
+    "State": "CA",
+    "Zipcode": 95626
+  },
+  "North Orange CO": {
+    "State": "CA",
+    "Zipcode": 90624
+  },
+  "North Ozaukee and Sheboygan Counties": {
+    "State": "WI",
+    "Zipcode": 53075
+  },
+  "North Pole": {
+    "State": "AK",
+    "Zipcode": 99705
+  },
+  "North Ridges": {
+    "State": "NC",
+    "Zipcode": 28604
+  },
+  "North Santiam Canyon": {
+    "State": "OR",
+    "Zipcode": 97346
+  },
+  "North Twin Cities Metro": {
+    "State": "MN",
+    "Zipcode": 55448
+  },
+  "Northampton County": {
+    "State": "NC",
+    "Zipcode": 27820
+  },
+  "Northeast Maryland": {
+    "State": "MD",
+    "Zipcode": 21930
+  },
+  "Northeast Urban": {
+    "State": "NJ",
+    "Zipcode": 7902
+  },
+  "Northern": {
+    "State": "ME",
+    "Zipcode": 4495
+  },
+  "Northern Baltimore": {
+    "State": "MD",
+    "Zipcode": 21155
+  },
+  "Northern Virginia": {
+    "State": "VA",
+    "Zipcode": 20197
+  },
+  "NW Coastal LA": {
+    "State": "CA",
+    "Zipcode": 90049
+  },
+  "NW Oklahoma": {
+    "State": "OK",
+    "Zipcode": 73838
+  },
+  "NW San Bernardino": {
+    "State": "CA",
+    "Zipcode": 91701
+  },
+  "Oak Harbor": {
+    "State": "WA",
+    "Zipcode": 98278
+  },
+  "Oakland": {
+    "State": "CA",
+    "Zipcode": 94502
+  },
+  "Oakridge": {
+    "State": "OR",
+    "Zipcode": 97492
+  },
+  "Ocala": {
+    "State": "FL",
+    "Zipcode": 34491
+  },
+  "Ocean View": {
+    "State": "HI",
+    "Zipcode": 96772
+  },
+  "Ogden": {
+    "State": "UT",
+    "Zipcode": 84404
+  },
+  "Ojai": {
+    "State": "CA",
+    "Zipcode": 93023
+  },
+  "Oklahoma City": {
+    "State": "OK",
+    "Zipcode": 73179
+  },
+  "Olympia-Lacey-Tumwater": {
+    "State": "WA",
+    "Zipcode": 98516
+  },
+  "Omaha": {
+    "State": "NE",
+    "Zipcode": 51526
+  },
+  "Omak": {
+    "State": "WA",
+    "Zipcode": 98841
+  },
+  "Onslow County": {
+    "State": "NC",
+    "Zipcode": 28547
+  },
+  "Ontario": {
+    "State": "OR",
+    "Zipcode": 97914
+  },
+  "Orange County": {
+    "State": "NC",
+    "Zipcode": 27231
+  },
+  "Orlando": {
+    "State": "FL",
+    "Zipcode": 32839
+  },
+  "Oroville": {
+    "State": "CA",
+    "Zipcode": 95968
+  },
+  "Osceola County": {
+    "State": "FL",
+    "Zipcode": 34771
+  },
+  "Outagamie and Brown Counties": {
+    "State": "WI",
+    "Zipcode": 54230
+  },
+  "Oxnard": {
+    "State": "CA",
+    "Zipcode": 93012
+  },
+  "Paducah": {
+    "State": "KY",
+    "Zipcode": 42086
+  },
+  "Pahala": {
+    "State": "HI",
+    "Zipcode": 96777
+  },
+  "Pahrump": {
+    "State": "NV",
+    "Zipcode": 89061
+  },
+  "Paia": {
+    "State": "HI",
+    "Zipcode": 96779
+  },
+  "Palmer": {
+    "State": "AK",
+    "Zipcode": 99567
+  },
+  "Pamlico County": {
+    "State": "NC",
+    "Zipcode": 28571
+  },
+  "Paradise": {
+    "State": "CA",
+    "Zipcode": 95969
+  },
+  "Paradise Road": {
+    "State": "CA",
+    "Zipcode": 93130
+  },
+  "Parkersburg": {
+    "State": "WV",
+    "Zipcode": 45788
+  },
+  "Paso Robles": {
+    "State": "CA",
+    "Zipcode": 93465
+  },
+  "Pasquotank County": {
+    "State": "NC",
+    "Zipcode": 27909
+  },
+  "Paul (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83347
+  },
+  "Payson": {
+    "State": "AZ",
+    "Zipcode": 85541
+  },
+  "Pearl City": {
+    "State": "HI",
+    "Zipcode": 96701
+  },
+  "Pender County": {
+    "State": "NC",
+    "Zipcode": 28425
+  },
+  "Pendleton": {
+    "State": "OR",
+    "Zipcode": 97801
+  },
+  "Pensacola": {
+    "State": "FL",
+    "Zipcode": 32583
+  },
+  "Peoria": {
+    "State": "IL",
+    "Zipcode": 61656
+  },
+  "Perquimans County": {
+    "State": "NC",
+    "Zipcode": 27985
+  },
+  "Perris Vly": {
+    "State": "CA",
+    "Zipcode": 92324
+  },
+  "Person County": {
+    "State": "NC",
+    "Zipcode": 27291
+  },
+  "Phelan": {
+    "State": "CA",
+    "Zipcode": 93524
+  },
+  "Philadelphia": {
+    "State": "PA",
+    "Zipcode": 19355
+  },
+  "Phoenix": {
+    "State": "AZ",
+    "Zipcode": 85087
+  },
+  "Pierre": {
+    "State": "SD",
+    "Zipcode": 57532
+  },
+  "Pinal Air Park": {
+    "State": "AZ",
+    "Zipcode": 85658
+  },
+  "Pinal County": {
+    "State": "AZ",
+    "Zipcode": 85242
+  },
+  "Pinal County Housing": {
+    "State": "AZ",
+    "Zipcode": 85194
+  },
+  "Pinehurst": {
+    "State": "ID",
+    "Zipcode": 83850
+  },
+  "Pinnacles National Monument": {
+    "State": "CA",
+    "Zipcode": 95043
+  },
+  "Piru": {
+    "State": "CA",
+    "Zipcode": 93015
+  },
+  "Pitt County": {
+    "State": "NC",
+    "Zipcode": 28590
+  },
+  "Pittsburg": {
+    "State": "NH",
+    "Zipcode": 3570
+  },
+  "Pittsburgh": {
+    "State": "PA",
+    "Zipcode": 15024
+  },
+  "Pittsfield": {
+    "State": "MA",
+    "Zipcode": 1236
+  },
+  "Placerville": {
+    "State": "CA",
+    "Zipcode": 95667
+  },
+  "Pocatello": {
+    "State": "ID",
+    "Zipcode": 83209
+  },
+  "Point Arena": {
+    "State": "CA",
+    "Zipcode": 95432
+  },
+  "Polk County": {
+    "State": "NC",
+    "Zipcode": 28782
+  },
+  "Pomona Walnut Vly": {
+    "State": "CA",
+    "Zipcode": 91750
+  },
+  "Port Angeles": {
+    "State": "WA",
+    "Zipcode": 98363
+  },
+  "Port Townsend": {
+    "State": "WA",
+    "Zipcode": 98368
+  },
+  "Portland": {
+    "State": "OR",
+    "Zipcode": 97024
+  },
+  "Portola": {
+    "State": "CA",
+    "Zipcode": 96122
+  },
+  "Portsmouth": {
+    "State": "NH",
+    "Zipcode": 3885
+  },
+  "Potlatch (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83857
+  },
+  "Prescott": {
+    "State": "AZ",
+    "Zipcode": 86330
+  },
+  "Providence": {
+    "State": "RI",
+    "Zipcode": 2802
+  },
+  "Provo": {
+    "State": "UT",
+    "Zipcode": 84606
+  },
+  "Pullman": {
+    "State": "WA",
+    "Zipcode": 99164
+  },
+  "Puna E": {
+    "State": "HI",
+    "Zipcode": 96778
+  },
+  "Quincy": {
+    "State": "CA",
+    "Zipcode": 95983
+  },
+  "Rapid City": {
+    "State": "SD",
+    "Zipcode": 57725
+  },
+  "Raymond": {
+    "State": "WA",
+    "Zipcode": 98577
+  },
+  "Red Hills": {
+    "State": "CA",
+    "Zipcode": 93461
+  },
+  "Red Lake": {
+    "State": "MN",
+    "Zipcode": 56634
+  },
+  "Red Lodge (seasonal)": {
+    "State": "MT",
+    "Zipcode": 59068
+  },
+  "Redding": {
+    "State": "CA",
+    "Zipcode": 96073
+  },
+  "Redwood City": {
+    "State": "CA",
+    "Zipcode": 94074
+  },
+  "Reno-Sparks": {
+    "State": "NV",
+    "Zipcode": 89704
+  },
+  "Rexburg (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83440
+  },
+  "Richmond": {
+    "State": "VA",
+    "Zipcode": 23881
+  },
+  "Rio Vista": {
+    "State": "CA",
+    "Zipcode": 94571
+  },
+  "Ritzville": {
+    "State": "WA",
+    "Zipcode": 99169
+  },
+  "Riverline": {
+    "State": "NJ",
+    "Zipcode": 8344
+  },
+  "Riverside Co. Metro": {
+    "State": "CA",
+    "Zipcode": 92028
+  },
+  "Roanoke": {
+    "State": "VA",
+    "Zipcode": 24175
+  },
+  "Robeson County": {
+    "State": "NC",
+    "Zipcode": 28360
+  },
+  "Rochester": {
+    "State": "MN",
+    "Zipcode": 55992
+  },
+  "Rock Island-Moline": {
+    "State": "IL",
+    "Zipcode": 61081
+  },
+  "Rock Springs": {
+    "State": "WY",
+    "Zipcode": 82902
+  },
+  "Rockford": {
+    "State": "IL",
+    "Zipcode": 60111
+  },
+  "Rocky Mountain National Park": {
+    "State": "CO",
+    "Zipcode": 80447
+  },
+  "Rosalia": {
+    "State": "WA",
+    "Zipcode": 99176
+  },
+  "Roseburg": {
+    "State": "OR",
+    "Zipcode": 97471
+  },
+  "Roseville-Rocklin": {
+    "State": "CA",
+    "Zipcode": 95747
+  },
+  "Rowan County": {
+    "State": "NC",
+    "Zipcode": 28088
+  },
+  "Rutherford County": {
+    "State": "NC",
+    "Zipcode": 28167
+  },
+  "Rutland": {
+    "State": "VT",
+    "Zipcode": 5736
+  },
+  "S Central LA CO": {
+    "State": "CA",
+    "Zipcode": 90255
+  },
+  "S San Gabriel Vly": {
+    "State": "CA",
+    "Zipcode": 91747
+  },
+  "Sacramento": {
+    "State": "CA",
+    "Zipcode": 94249
+  },
+  "Saddleback Vly": {
+    "State": "CA",
+    "Zipcode": 92676
+  },
+  "Saginaw": {
+    "State": "MI",
+    "Zipcode": 48445
+  },
+  "Saint Louis": {
+    "State": "MO",
+    "Zipcode": 63147
+  },
+  "Salem": {
+    "State": "OR",
+    "Zipcode": 97317
+  },
+  "Salinas": {
+    "State": "CA",
+    "Zipcode": 93915
+  },
+  "Salmon": {
+    "State": "ID",
+    "Zipcode": 83468
+  },
+  "Salt Lake City": {
+    "State": "UT",
+    "Zipcode": 84109
+  },
+  "Salt River Pima-Maricopa Indian Community": {
+    "State": "AZ",
+    "Zipcode": 85261
+  },
+  "Sampson County": {
+    "State": "NC",
+    "Zipcode": 28385
+  },
+  "San Antonio": {
+    "State": "TX",
+    "Zipcode": 78886
+  },
+  "San Diego Coast": {
+    "State": "CA",
+    "Zipcode": 92118
+  },
+  "San Diego Foothills": {
+    "State": "CA",
+    "Zipcode": 91916
+  },
+  "San Diego Mesa and Inland Valley": {
+    "State": "CA",
+    "Zipcode": 92065
+  },
+  "San Francisco": {
+    "State": "CA",
+    "Zipcode": 94005
+  },
+  "San Gabriel Mts": {
+    "State": "CA",
+    "Zipcode": 91310
+  },
+  "San Jose": {
+    "State": "CA",
+    "Zipcode": 95192
+  },
+  "San Juan County": {
+    "State": "NM",
+    "Zipcode": 87421
+  },
+  "San Lorenzo Valley": {
+    "State": "CA",
+    "Zipcode": 95006
+  },
+  "San Luis Obispo": {
+    "State": "CA",
+    "Zipcode": 93420
+  },
+  "San Rafael": {
+    "State": "CA",
+    "Zipcode": 94925
+  },
+  "San Tan Valley": {
+    "State": "AZ",
+    "Zipcode": 85143
+  },
+  "Sand Island": {
+    "State": "HI",
+    "Zipcode": 96819
+  },
+  "Sandpoint": {
+    "State": "ID",
+    "Zipcode": 83864
+  },
+  "Santa Barbara": {
+    "State": "CA",
+    "Zipcode": 93105
+  },
+  "Santa Clarita Vly": {
+    "State": "CA",
+    "Zipcode": 91355
+  },
+  "Santa Cruz": {
+    "State": "CA",
+    "Zipcode": 95073
+  },
+  "Santa Maria": {
+    "State": "CA",
+    "Zipcode": 93458
+  },
+  "Santa Rosa": {
+    "State": "CA",
+    "Zipcode": 94931
+  },
+  "Santa Rosa Rancheria": {
+    "State": "CA",
+    "Zipcode": 93245
+  },
+  "Santa Ynez": {
+    "State": "CA",
+    "Zipcode": 93463
+  },
+  "Sarasota": {
+    "State": "FL",
+    "Zipcode": 33954
+  },
+  "Sauvie Island": {
+    "State": "OR",
+    "Zipcode": 97231
+  },
+  "Scotland County": {
+    "State": "NC",
+    "Zipcode": 28343
+  },
+  "Scotts Valley": {
+    "State": "CA",
+    "Zipcode": 95066
+  },
+  "Scranton and Wilkes-Barre": {
+    "State": "PA",
+    "Zipcode": 18249
+  },
+  "Seattle-Bellevue-Kent Valley": {
+    "State": "WA",
+    "Zipcode": 98109
+  },
+  "Seminole County": {
+    "State": "FL",
+    "Zipcode": 32773
+  },
+  "Sequoia and Kings Canyon National Parks": {
+    "State": "CA",
+    "Zipcode": 93271
+  },
+  "Shelton": {
+    "State": "WA",
+    "Zipcode": 98546
+  },
+  "Shenandoah National Park": {
+    "State": "VA",
+    "Zipcode": 22973
+  },
+  "Sheridan": {
+    "State": "WY",
+    "Zipcode": 82845
+  },
+  "Shreveport": {
+    "State": "LA",
+    "Zipcode": 71129
+  },
+  "Simi Valley": {
+    "State": "CA",
+    "Zipcode": 93021
+  },
+  "Sioux Falls": {
+    "State": "SD",
+    "Zipcode": 57197
+  },
+  "Sisters": {
+    "State": "OR",
+    "Zipcode": 97759
+  },
+  "Sloughhouse": {
+    "State": "CA",
+    "Zipcode": 95655
+  },
+  "Soda Springs (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83276
+  },
+  "Soldonta": {
+    "State": "AK",
+    "Zipcode": 99669
+  },
+  "South Bend": {
+    "State": "IN",
+    "Zipcode": 46637
+  },
+  "South Coastal": {
+    "State": "NJ",
+    "Zipcode": 8037
+  },
+  "South Coastal LA": {
+    "State": "CA",
+    "Zipcode": 90899
+  },
+  "South Lake Tahoe": {
+    "State": "CA",
+    "Zipcode": 96158
+  },
+  "South Ridges": {
+    "State": "NC",
+    "Zipcode": 28738
+  },
+  "South Twin Cities Metro": {
+    "State": "MN",
+    "Zipcode": 55044
+  },
+  "Southeast Burlington and Ocean Counties": {
+    "State": "NJ",
+    "Zipcode": 8724
+  },
+  "Southeast LA CO": {
+    "State": "CA",
+    "Zipcode": 90723
+  },
+  "Southern Bay": {
+    "State": "NJ",
+    "Zipcode": 8001
+  },
+  "Southern Maryland": {
+    "State": "MD",
+    "Zipcode": 20606
+  },
+  "Southern Ute Indian Reservation": {
+    "State": "CO",
+    "Zipcode": 81137
+  },
+  "Southwest Coast": {
+    "State": "ME",
+    "Zipcode": 4562
+  },
+  "Spokane": {
+    "State": "WA",
+    "Zipcode": 99037
+  },
+  "Spokane Tribe of Spokane Reservation": {
+    "State": "WA",
+    "Zipcode": 99040
+  },
+  "Springdale (Springdale-Fayetteville-Bentonville)": {
+    "State": "AR",
+    "Zipcode": 72764
+  },
+  "Springfield": {
+    "State": "MA",
+    "Zipcode": 1151
+  },
+  "St. Cloud": {
+    "State": "MN",
+    "Zipcode": 55358
+  },
+  "St. Helena": {
+    "State": "CA",
+    "Zipcode": 94574
+  },
+  "St. Joseph": {
+    "State": "MO",
+    "Zipcode": 66090
+  },
+  "St. Louis (Metro-east)": {
+    "State": "IL",
+    "Zipcode": 62275
+  },
+  "St. Maries": {
+    "State": "ID",
+    "Zipcode": 83861
+  },
+  "St. Petersburg": {
+    "State": "FL",
+    "Zipcode": 33786
+  },
+  "Stafford": {
+    "State": "CT",
+    "Zipcode": 6235
+  },
+  "Stanfield": {
+    "State": "AZ",
+    "Zipcode": 85172
+  },
+  "Stanly County": {
+    "State": "NC",
+    "Zipcode": 28163
+  },
+  "State College": {
+    "State": "PA",
+    "Zipcode": 16882
+  },
+  "Stockton": {
+    "State": "CA",
+    "Zipcode": 95219
+  },
+  "Stow": {
+    "State": "MA",
+    "Zipcode": 2451
+  },
+  "Strafford County - Rochester": {
+    "State": "NH",
+    "Zipcode": 3815
+  },
+  "Stratford": {
+    "State": "CT",
+    "Zipcode": 6615
+  },
+  "Suburban DC": {
+    "State": "MD",
+    "Zipcode": 21029
+  },
+  "Sun City and Surprise": {
+    "State": "AZ",
+    "Zipcode": 85372
+  },
+  "Surry County": {
+    "State": "NC",
+    "Zipcode": 27024
+  },
+  "Susquehanna Valley": {
+    "State": "PA",
+    "Zipcode": 17603
+  },
+  "SW Coastal LA": {
+    "State": "CA",
+    "Zipcode": 90080
+  },
+  "SW San Bernardino": {
+    "State": "CA",
+    "Zipcode": 91710
+  },
+  "Swain County": {
+    "State": "NC",
+    "Zipcode": 28789
+  },
+  "Sweet Home": {
+    "State": "OR",
+    "Zipcode": 97386
+  },
+  "Tacoma-Puyallup": {
+    "State": "WA",
+    "Zipcode": 98354
+  },
+  "Tahoe City area": {
+    "State": "CA",
+    "Zipcode": 96146
+  },
+  "Taholah": {
+    "State": "WA",
+    "Zipcode": 98587
+  },
+  "Tallahassee": {
+    "State": "FL",
+    "Zipcode": 32399
+  },
+  "Tampa": {
+    "State": "FL",
+    "Zipcode": 33647
+  },
+  "Taos": {
+    "State": "NM",
+    "Zipcode": 87571
+  },
+  "Temecula Vly": {
+    "State": "CA",
+    "Zipcode": 92563
+  },
+  "Terre Haute": {
+    "State": "IN",
+    "Zipcode": 47809
+  },
+  "Thibodaux": {
+    "State": "LA",
+    "Zipcode": 70395
+  },
+  "Thousand Oaks": {
+    "State": "CA",
+    "Zipcode": 91362
+  },
+  "Tillamook": {
+    "State": "OR",
+    "Zipcode": 97141
+  },
+  "Timpanogos Cave National Monument": {
+    "State": "UT",
+    "Zipcode": 84004
+  },
+  "Toledo": {
+    "State": "OR",
+    "Zipcode": 97391
+  },
+  "Tooele": {
+    "State": "UT",
+    "Zipcode": 84074
+  },
+  "Topeka": {
+    "State": "KS",
+    "Zipcode": 66618
+  },
+  "Torrington": {
+    "State": "CT",
+    "Zipcode": 6782
+  },
+  "Transylvania County": {
+    "State": "NC",
+    "Zipcode": 28708
+  },
+  "Traverse City": {
+    "State": "MI",
+    "Zipcode": 49617
+  },
+  "Tri-Cities": {
+    "State": "TN",
+    "Zipcode": 24290
+  },
+  "Trona": {
+    "State": "CA",
+    "Zipcode": 93562
+  },
+  "Truro": {
+    "State": "MA",
+    "Zipcode": 2652
+  },
+  "Tulsa": {
+    "State": "OK",
+    "Zipcode": 74126
+  },
+  "Tuolumne City": {
+    "State": "CA",
+    "Zipcode": 95379
+  },
+  "Tuolumne County": {
+    "State": "CA",
+    "Zipcode": 95335
+  },
+  "Twentynine Palms": {
+    "State": "CA",
+    "Zipcode": 92363
+  },
+  "Twin Falls": {
+    "State": "ID",
+    "Zipcode": 83328
+  },
+  "Twisp": {
+    "State": "WA",
+    "Zipcode": 98856
+  },
+  "Tyler-Longview-Marshall": {
+    "State": "TX",
+    "Zipcode": 75799
+  },
+  "Tyrrell County": {
+    "State": "NC",
+    "Zipcode": 27925
+  },
+  "Ukiah": {
+    "State": "CA",
+    "Zipcode": 95466
+  },
+  "Union County": {
+    "State": "NC",
+    "Zipcode": 28174
+  },
+  "Upper Eastern Shore": {
+    "State": "MD",
+    "Zipcode": 21620
+  },
+  "Upper Green River Basin": {
+    "State": "WY",
+    "Zipcode": 82925
+  },
+  "Upper Hudson Valley Region": {
+    "State": "NY",
+    "Zipcode": 13470
+  },
+  "Uxbridge": {
+    "State": "MA",
+    "Zipcode": 1569
+  },
+  "Vacaville": {
+    "State": "CA",
+    "Zipcode": 95688
+  },
+  "Vance County": {
+    "State": "NC",
+    "Zipcode": 27536
+  },
+  "Vancouver": {
+    "State": "WA",
+    "Zipcode": 98668
+  },
+  "Vermont Mountain Valley Locations": {
+    "State": "VT",
+    "Zipcode": 5676
+  },
+  "Vernal": {
+    "State": "UT",
+    "Zipcode": 84085
+  },
+  "Victoria": {
+    "State": "TX",
+    "Zipcode": 77983
+  },
+  "Victorville": {
+    "State": "CA",
+    "Zipcode": 92307
+  },
+  "Vilas and Forest Counties": {
+    "State": "WI",
+    "Zipcode": 54566
+  },
+  "Virginia": {
+    "State": "MN",
+    "Zipcode": 55792
+  },
+  "Visalia": {
+    "State": "CA",
+    "Zipcode": 93235
+  },
+  "W San Bernardino M": {
+    "State": "CA",
+    "Zipcode": 91759
+  },
+  "W San Fernando Vly": {
+    "State": "CA",
+    "Zipcode": 91337
+  },
+  "W San Gabriel Vly": {
+    "State": "CA",
+    "Zipcode": 91003
+  },
+  "Waco-Killeen": {
+    "State": "TX",
+    "Zipcode": 76504
+  },
+  "Waikoloa": {
+    "State": "HI",
+    "Zipcode": 96738
+  },
+  "Wake County": {
+    "State": "NC",
+    "Zipcode": 27711
+  },
+  "Walla Walla": {
+    "State": "WA",
+    "Zipcode": 99362
+  },
+  "Wamsutter": {
+    "State": "WY",
+    "Zipcode": 82336
+  },
+  "Ware - Quabbin Summit": {
+    "State": "MA",
+    "Zipcode": 1010
+  },
+  "Warren County": {
+    "State": "NC",
+    "Zipcode": 27551
+  },
+  "Washakie Reservation": {
+    "State": "UT",
+    "Zipcode": 84338
+  },
+  "Washington County": {
+    "State": "NC",
+    "Zipcode": 27970
+  },
+  "Wasilla": {
+    "State": "AK",
+    "Zipcode": 99654
+  },
+  "Watauga County": {
+    "State": "NC",
+    "Zipcode": 28679
+  },
+  "Watsonville": {
+    "State": "CA",
+    "Zipcode": 95004
+  },
+  "Wayne County": {
+    "State": "NC",
+    "Zipcode": 27863
+  },
+  "Weaverville": {
+    "State": "CA",
+    "Zipcode": 96093
+  },
+  "Weirton": {
+    "State": "WV",
+    "Zipcode": 26070
+  },
+  "Weiser (seasonal)": {
+    "State": "ID",
+    "Zipcode": 83672
+  },
+  "Wenatchee": {
+    "State": "WA",
+    "Zipcode": 98802
+  },
+  "West Greenwich": {
+    "State": "RI",
+    "Zipcode": 2831
+  },
+  "West Palm Beach": {
+    "State": "FL",
+    "Zipcode": 33498
+  },
+  "Western Interior": {
+    "State": "ME",
+    "Zipcode": 4042
+  },
+  "Western Maryland": {
+    "State": "MD",
+    "Zipcode": 21766
+  },
+  "Western Mountains": {
+    "State": "ME",
+    "Zipcode": 4976
+  },
+  "Western Nevada County": {
+    "State": "CA",
+    "Zipcode": 95602
+  },
+  "Western New York Region": {
+    "State": "NY",
+    "Zipcode": 14880
+  },
+  "Westmorland": {
+    "State": "CA",
+    "Zipcode": 92281
+  },
+  "Westport": {
+    "State": "CT",
+    "Zipcode": 6897
+  },
+  "Wheeling": {
+    "State": "WV",
+    "Zipcode": 26003
+  },
+  "Wichita": {
+    "State": "KS",
+    "Zipcode": 67260
+  },
+  "Wilkes County": {
+    "State": "NC",
+    "Zipcode": 28697
+  },
+  "Williamsport": {
+    "State": "PA",
+    "Zipcode": 16938
+  },
+  "Willits": {
+    "State": "CA",
+    "Zipcode": 95429
+  },
+  "Willow Creek": {
+    "State": "CA",
+    "Zipcode": 95573
+  },
+  "Willows": {
+    "State": "CA",
+    "Zipcode": 95963
+  },
+  "Wilmington": {
+    "State": "DE",
+    "Zipcode": 19717
+  },
+  "Wilson County": {
+    "State": "NC",
+    "Zipcode": 27813
+  },
+  "Winchester": {
+    "State": "VA",
+    "Zipcode": 22637
+  },
+  "Windsor": {
+    "State": "CA",
+    "Zipcode": 95492
+  },
+  "Winona": {
+    "State": "MN",
+    "Zipcode": 55959
+  },
+  "Winthrop": {
+    "State": "WA",
+    "Zipcode": 98862
+  },
+  "Woodland": {
+    "State": "CA",
+    "Zipcode": 95937
+  },
+  "Worcester": {
+    "State": "MA",
+    "Zipcode": 2019
+  },
+  "Yacolt": {
+    "State": "WA",
+    "Zipcode": 98675
+  },
+  "Yakima": {
+    "State": "WA",
+    "Zipcode": 98932
+  },
+  "Yankee Hill": {
+    "State": "CA",
+    "Zipcode": 95965
+  },
+  "York": {
+    "State": "Chester",
+    "Zipcode": "and Lancaster"
+  },
+  "Yosemite National Park": {
+    "State": "CA",
+    "Zipcode": 95389
+  },
+  "Youngstown": {
+    "State": "OH",
+    "Zipcode": 44555
+  },
+  "Yreka": {
+    "State": "CA",
+    "Zipcode": 96097
+  },
+  "Yuba City and Marysville": {
+    "State": "CA",
+    "Zipcode": 95692
+  },
+  "Yucca Vly": {
+    "State": "CA",
+    "Zipcode": 92356
+  },
+  "Yuma": {
+    "State": "AZ",
+    "Zipcode": 85350
+  },
+  "Zion National Park": {
+    "State": "UT",
+    "Zipcode": 84779
+  }
+}

@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+
+.App {
+  background: #e5eef8;
+}
+
+.Center_Content {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
+p,
+h2,
+h3 {
+  font-size: larger;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Abril Fatface", "cursive";
+}
+
+.Header {
+  display: block;
+}
+
+.Header_Title {
+  color: #0b759d;
+  font-size: 56px;
+}
+
+.Header_SubTitle {
+  color: #1fbabf;
+  font-size: x-large;
+}
+
+.Nav_Bar {
+  display: flex;
+  justify-content: center;
+  background: black;
+  color: #fff;
+}
+
+.Nav_Bar_Title {
+  cursor: pointer;
+  font-size: x-large;
+  margin-top: 5px;
+}
+
+.Nav_Bar_Title :hover {
+  color: #9ceebc;
+}
+
+.Nav_Bar_Items {
+  text-decoration: none;
+  background: black;
+  color: #fff;
+  font-size: large;
+}
+
+.Nav_Item_Hover :hover {
+  color: #9ceebc;
+}
+
+.SearchBar {
+  border: solid black 2px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.Post_Card_Arrangement {
+  display: flex;
+  max-width: 80vw;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Post_Cards_Display {
+  margin: 20px;
+}
+
+.Card {
+  max-width: 269.95px;
+  height: 500px;
+  border: solid 2px;
+  display: flex;
+  flex-direction: column;
+  background: #f1f1f1;
+  align-items: center;
+}
+
+.Shadow {
+  box-shadow: 4px 4px 8px 1px rgba(0, 0, 0, 0.8);
+}
+
+.Card_Title {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
+}
+
+.Card_Title:hover {
+  color: white;
+  background: #0b759d;
+}
+
+.Card_Img_a_Tag_Parent {
+  cursor: pointer;
+  width: 100%;
+}
+.Card_Img {
+  max-width: 265.95px;
+  width: 100%;
+  height: 180px;
+}
+
+.Card_Body {
+  padding: 4.5%;
+  text-align: left;
+}
+
+.Card_Button {
+  color: black;
+  background: #9ceebc;
+  border: solid 1px;
+  font-size: larger;
+  width: 100%;
+  align-self: flex-end;
+  margin-top: auto;
+  text-decoration: none;
+}
+
+.Card_Button:hover {
+  background-color: black !important;
+  color: white;
+}
+
+.Footer {
+  height: 20vh;
+  width: 100vw;
+  background-color: #dedede;
+  font-size: large;
+  font-weight: 250;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 10vh;
+  text-align: center;
+}
+.Simple_Button :hover {
+  color: #9ceebc;
+}
+.Simple_Button {
+  color: white;
+  width: 100%;
+  background-color: black;
+  font-size: larger;
+}
